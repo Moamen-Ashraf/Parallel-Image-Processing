@@ -186,8 +186,6 @@ Typical speedup on a quad-core machine (1920×1080 image):
 - **Image Rotation** rotates each slice around its own centre rather than
   the full image centre.
 
-All details and suggested fixes in [docs/KNOWN_ISSUES.md](docs/KNOWN_ISSUES.md).
-
 ---
 
 ## Author
