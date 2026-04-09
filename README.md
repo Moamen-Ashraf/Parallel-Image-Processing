@@ -191,5 +191,4 @@ Typical speedup on a quad-core machine (1920×1080 image):
 ## Author
 
 **Momen Ashraf**  
-Computer Science — Fayoum University, 2024  
 [linkedin.com/in/momen-ashraf-](https://linkedin.com/in/momen-ashraf-)
